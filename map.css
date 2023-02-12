@@ -1,0 +1,14 @@
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.mapboxgl-popup-content {
+  max-height: 140px;
+}
+
+.popup h3 {
+  margin-top: 4px;
+}
