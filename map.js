@@ -11,7 +11,7 @@ var geojson = {
       },
       "properties": {
         "title": "Chris's Hometown",
-        "description": "Chris was born and raised in Annandale, a suburb of D.C. His Father was a high ranking engineer for NASA, then became successful as an entrepreneur. Family conflicts were frequent, as Chris and his father Walt had conflicting views on materialism and the upper-class lifestyle. The father-son relationship further worsens as Chris witnesses Walt's adultery."
+        "description": "Chris was born and raised in Annandale, a suburb of D.C. His Father was a high ranking engineer for NASA, then became successful as an entrepreneur. Family conflicts were frequent, as Chris and his father Walt had conflicting views on materialism and the upper-class lifestyle. The father-son relationship further worsened as Chris witnesses Walt's adultery."
       }
     },
     {
@@ -22,7 +22,7 @@ var geojson = {
       },
       "properties": {
         "title": "Emory University",
-        "description": "Chris attended Emory for four years—and he did not enjoy it. He hated that his parents were controlling him to attend an academically prestigious university, so that he can acquire a high-paying job. Believing that \"wealth was shameful, corrupting, inherently evil,\" Chris finds his life in Emory pointless (Krakauer). After his graduation, \"he donated the balence of his bank account to OXFAM, loaded up his car, and vanished from their lives\" (Krakauer)."
+        "description": "Chris attended Emory for four years—and he did not enjoy it. He hated that his parents were controlling him to attend a prestigious university, just so that he can acquire a high-paying job. Believing that \"wealth was shameful, corrupting, inherently evil,\" Chris found his life in Emory pointless (Krakauer). After his graduation, \"he donated the balence of his bank account to OXFAM, loaded up his car, and vanished from their lives\" (Krakauer)."
       }
     },
     {
@@ -122,7 +122,7 @@ var geojson = {
       },
       "properties": {
         "title": "Chris catches a ride while heading to Alaska",
-        "description": "Gaylord Stuckey, a trucker, hitchhikes Chris and gets him to Whitehorse, Alaska. At this point, Chris almost completely rejects social interaction; nevertheless, he \"didn’t come out and say too much at first, …but by the end he kingd of let his guard down,\" according to Stuckey. <br><br><i>I've been thinking—maybe it is impossible to live in complete isolation. 'Cause wow, it feels nice to finally have someone to talk to about my personal struggles, after a long time in the wild.</i>"
+        "description": "Gaylord Stuckey, a trucker, hitchhikes Chris and gets him to Whitehorse, Alaska. At this point, Chris almost completely rejects social interaction; nevertheless, he \"didn’t come out and say too much at first, …but by the end he kingd of let his guard down,\" according to Stuckey. <br><br><i>I've been thinking—maybe it is impossible to live in complete isolation. 'Cause it really feels nice to finally have someone to talk to about my personal struggles, after a long time in the wild.</i>"
       }
     },
     {
@@ -133,7 +133,7 @@ var geojson = {
       },
       "properties": {
         "title": "Chris gets hitchhiked by Jim Gallien",
-        "description": "Chris meets Jim Gallien, who gives him a ride to Mt. McKinley. Gallien, after noting that \"he wasn’t carrying anywhere near as much food and gear as you’d expect a guy to be carrying for that kind of trip,\" discourages Chris from entering the wild (Krakauer). But Chris, unfazed, ignores him. This scene shows Chris's firm belief in self-reliance. <br><br><i>Jim seemed super worried and asked if I needed any help—really unnecessary. I want to—I need to do things on my own.</i>"
+        "description": "Chris meets Jim Gallien, who gives him a ride to Mt. McKinley. Gallien, after noting that \"he wasn’t carrying anywhere near as much food and gear as you’d expect a guy to be carrying for that kind of trip,\" discourages Chris from entering the wild (Krakauer). But Chris, unfazed, ignores him. This scene shows Chris's firm belief in self-reliance. <br><br><i>Jim seemed super worried and asked if I needed any help—which is really unnecessary. I have to take matters into my own hands—it's the only way something will ever be meaningful.</i>"
       }
     },
     {
